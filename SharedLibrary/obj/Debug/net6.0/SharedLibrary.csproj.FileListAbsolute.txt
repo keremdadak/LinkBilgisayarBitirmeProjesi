@@ -1,0 +1,12 @@
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\RegisterDirectoryWepAPI\RegisterDirectory\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll

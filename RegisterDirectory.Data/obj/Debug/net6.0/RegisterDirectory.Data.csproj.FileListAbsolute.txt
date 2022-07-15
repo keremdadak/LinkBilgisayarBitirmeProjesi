@@ -1,0 +1,14 @@
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\bin\Debug\net6.0\RegisterDirectory.Data.deps.json
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\bin\Debug\net6.0\RegisterDirectory.Data.runtimeconfig.json
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\bin\Debug\net6.0\RegisterDirectory.Data.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\bin\Debug\net6.0\RegisterDirectory.Data.pdb
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.csproj.AssemblyReference.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.AssemblyInfoInputs.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.AssemblyInfo.cs
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.csproj.CoreCompileInputs.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\refint\RegisterDirectory.Data.dll
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.pdb
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\RegisterDirectory.Data.genruntimeconfig.cache
+D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectory.Data\obj\Debug\net6.0\ref\RegisterDirectory.Data.dll
