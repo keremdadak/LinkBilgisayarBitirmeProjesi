@@ -1,5 +1,0 @@
-D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectroy.Core\obj\Debug\net6.0\RegisterDirectroy.Core.csproj.AssemblyReference.cache
-D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectroy.Core\obj\Debug\net6.0\RegisterDirectroy.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectroy.Core\obj\Debug\net6.0\RegisterDirectroy.Core.AssemblyInfoInputs.cache
-D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectroy.Core\obj\Debug\net6.0\RegisterDirectroy.Core.AssemblyInfo.cs
-D:\RegisterDirectoryWepAPI\RegisterDirectory\RegisterDirectroy.Core\obj\Debug\net6.0\RegisterDirectroy.Core.csproj.CoreCompileInputs.cache
